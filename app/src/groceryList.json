@@ -1,0 +1,72 @@
+{
+    "fruits": [
+      { "name": "Apple", "image": "/images/apple.jpg", "review": 4.5, "price": "1.20" },
+      { "name": "Banana", "image": "/images/banana.jpg", "review": 4.2, "price": "0.50" },
+      { "name": "Orange", "image": "/images/orange.jpg", "review": 4.3, "price": "0.80" },
+      { "name": "Grape", "image": "/images/grape.jpg", "review": 4.4, "price": "1.00" },
+      { "name": "Strawberry", "image": "/images/strawberry.jpg", "review": 4.6, "price": "2.00" }
+    ],
+    "vegetables": [
+      { "name": "Carrot", "image": "/images/carrot.jpg", "review": 4.6, "price": "0.80" },
+      { "name": "Potato", "image": "/images/potato.jpg", "review": 4.7, "price": "0.30" },
+      { "name": "Onion", "image": "/images/onion.jpg", "review": 4.3, "price": "0.50" },
+      { "name": "Garlic", "image": "/images/garlic.png", "review": 4.8, "price": "1.50" },
+      { "name": "Tomato", "image": "/images/tomato.jpg", "review": 4.4, "price": "0.90" }
+    ],
+    "dairy": [
+      { "name": "Milk", "image": "/images/milk.png", "review": 4.9, "price": "1.50" },
+      { "name": "Cheese", "image": "/images/cheese.jpg", "review": 4.6, "price": "3.00" },
+      { "name": "Yogurt", "image": "/images/yogurt.jpg", "review": 4.5, "price": "0.70" },
+      { "name": "Butter", "image": "/images/butter.png", "review": 4.7, "price": "2.20" },
+      { "name": "Eggs", "image": "/images/egg.png", "review": 4.9, "price": "2.50" }
+    ],
+    "meat and seafood": [
+      { "name": "Chicken Breast", "image": "/images/chicken.jpg", "review": 4.7, "price": "3.50" },
+      { "name": "Ground Beef", "image": "/images/beef.png", "review": 4.6, "price": "4.00" },
+      { "name": "fish", "image": "/images/fish.jpg", "review": 4.5, "price": "3.80" },
+      { "name": "Salmon", "image": "/images/salmon.png", "review": 4.8, "price": "5.00" },
+      { "name": "mutton", "image": "/images/mutton.png", "review": 4.9, "price": "6.00" }
+    ],
+    "grains": [
+      { "name": "Rice", "image": "/images/rice.png", "review": 4.5, "price": "1.00" },
+      { "name": "Flour", "image": "/images/flour.png", "review": 4.6, "price": "1.20" },
+      { "name": "dal", "image": "/images/dal.png", "review": 4.7, "price": "2.00" },
+      { "name": "sugar", "image": "/images/sugar.png", "review": 4.4, "price": "1.80" },
+      { "name": "salt", "image": "/images/salt.png", "review": 4.8, "price": "1.50" }
+    ],
+    "canned and packaged goods": [
+      { "name": "Canned Beans", "image": "/images/canned Beans.png", "review": 4.5, "price": "0.70" },
+      { "name": "Canned Tomatoes", "image": "/images/canned Tomatoes.png", "review": 4.6, "price": "0.90" },
+      { "name": "Canned Tuna", "image": "/images/canned Tuna.png", "review": 4.7, "price": "1.50" },
+      { "name": "Peanut Butter", "image": "/images/peanut Butter.png", "review": 4.8, "price": "2.50" },
+      { "name": "Jams & Jellies", "image": "/images/jams & Jellies.png", "review": 4.4, "price": "1.80" }
+    ],
+    "condiments and sauces": [
+      { "name": "Ketchup", "image": "/images/ketchup.png", "review": 4.5, "price": "1.00" },
+      { "name": "Mustard", "image": "/images/mayo.png", "review": 4.3, "price": "0.80" },
+      { "name": "Mayonnaise", "image": "/images/mustard.png", "review": 4.7, "price": "1.20" },
+      { "name": "Soy Sauce", "image": "/images/soy sauce.png", "review": 4.6, "price": "1.00" },
+      { "name": "Hot Sauce", "image": "/images/chilli sauce.png", "review": 4.8, "price": "1.50" }
+    ],
+    "snacks": [
+      { "name": "Chips", "image": "/images/chips.png", "review": 4.5, "price": "1.20" },
+      { "name": "Crackers", "image": "/images/biscuit.png", "review": 4.6, "price": "1.50" },
+      { "name": "Granola Bars", "image": "/images/granola bar.png", "review": 4.4, "price": "2.00" },
+      { "name": "Cookies", "image": "/images/cookies.png", "review": 4.7, "price": "1.80" },
+      { "name": "Popcorn", "image": "/images/popcorn.png", "review": 4.6, "price": "1.20" }
+    ],
+    "frozen foods": [
+      { "name": "Frozen Vegetables", "image": "/images/frozen vege.png", "review": 4.5, "price": "1.50" },
+      { "name": "Frozen Pizza", "image": "/images/pizza.png", "review": 4.6, "price": "3.50" },
+      { "name": "Frozen Fruits", "image": "/images/frozen fruit.png", "review": 4.4, "price": "2.00" },
+      { "name": "Ice Cream", "image": "/images/ice cream.png", "review": 4.9, "price": "3.00" },
+      { "name": "Cake", "image": "/images/cake.png", "review": 4.3, "price": "4.00" }
+    ],
+    "beverages": [
+      { "name": "Water", "image": "/images/bottle.png", "review": 4.9, "price": "0.50" },
+      { "name": "Coffee", "image": "/images/coffee.png", "review": 4.8, "price": "2.50" },
+      { "name": "Tea", "image": "/images/tea.png", "review": 4.6, "price": "1.20" },
+      { "name": "Juice", "image": "/images/juice.png", "review": 4.7, "price": "1.80" }
+    ]
+}
+  

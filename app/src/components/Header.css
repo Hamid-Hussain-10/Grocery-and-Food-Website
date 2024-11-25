@@ -1,0 +1,55 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0.5rem;
+    background-color: rgb(216, 198, 39);
+}
+
+.img img{
+    width: 12vh;
+    height: 12vh;
+}
+
+.search-btn input{
+    display: flex;
+    padding: 0.6rem;
+    border: none;
+    width: 20vw;
+    background-color: rgb(209, 199, 199);
+    border-radius: .5rem;
+}
+
+.search-icon{
+    position: absolute;
+    top: 6.5%;
+    right: 46%;
+    color: red;
+}
+
+.navbar-menu{
+    display: flex;
+    gap: 1rem;
+    font-size: 1.1em;
+}
+
+.navbar-icons{
+    display: flex;
+    gap: 1rem;
+    font-size: 1.3rem; 
+}
+
+.dropdown-menu{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    margin: 0.7em;
+    background-color: rgb(224, 196, 35);
+    padding: 1rem;
+    border-radius: 1rem;
+    line-height: 2rem;
+}
+
+.navbar-icons a, .navbar-menu a{
+    color: black;
+}
